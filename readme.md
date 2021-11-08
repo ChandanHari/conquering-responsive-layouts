@@ -24,3 +24,9 @@
   - Use responsive units (em, rem).
 
 ## Day 2 | Getting familiar with relative units
+
+## Day 3 | Enter max-width
+
+### Adding in a max-width
+
+- Setting a max-width prevents the text from going across on big sized screens.
