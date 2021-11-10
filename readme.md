@@ -30,3 +30,5 @@
 ### Adding in a max-width
 
 - Setting a max-width prevents the text from going across on big sized screens.
+
+[![Adding in max-width](https://i.ibb.co/gFj6mPD/ch2.png "Adding in max-width")](https://i.ibb.co/gFj6mPD/ch2.png "Adding in max-width")
